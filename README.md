@@ -1,4 +1,4 @@
-#Vist the [link](https://feedback-app-tawny.vercel.app/) to see the output
+#Visit the [link](https://feedback-app-tawny.vercel.app/) to see the output
 
 # Getting Started with Create React App
 
